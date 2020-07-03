@@ -117,10 +117,8 @@ read -p '╚═▶' nolorr1;
 sleep 2
 sleep 3
 sleep 3                                                         sleep 4                                                         clear
-echo "\033[1;33m╔╦══════════════════════════════════════════════╠╝  \033[1;30m✬  \033[31;0mAuthor     \033[91m:  \033[1;36mMoch>╠╗  \033[1;30m✬  \033[31;0mInstagram  \033[91m:  \033[1;32m@nop>║║  \033[1;30m✬  \033[31;0mYoutube    \033[91m:  \033[1;32mPAJA>║║  \033[1;30m✬  \033[31;0mTeam       \033[91m:  \033[1;34mC3L3>
-╚╬══════════════════════════════════════════════╬╝              \033[1;33m╔╬══════════════════════════════════════════════╬╗    \033[1;33m╠╝\033[91m● \033[92mJika Script/Tools Ini Tidak Berfu>
-\033[1;33m║   \033[92mAda Kesalahan Pada Script/Tools Ini      >\033[1;33m╠════════════════════════════════════════════╦═══╝"
-echo "╚\033[1;31m▶\033[0mTerimaKasih Telah Memakai Script/Tools>
+echo "\033[91mTERIMAH KASI TELAH MECOBAH TOOLS INI"
 sleep 2
+echo "\033[91mKIJA TIADAK BERHASIL COBA LAGI"
 sleep 2
-sleep 4       
+sleep 4        
