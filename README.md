@@ -1,1 +1,1 @@
-# sampah.sh
+# hackpulsah.sh
