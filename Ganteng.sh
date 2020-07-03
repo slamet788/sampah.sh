@@ -1,126 +1,126 @@
-#!/bin/bash
-#version 1.0
-
-# Variables
-b='\033[1m'
-u='\033[4m'
-bl='\E[30m'
-r='\E[31m'
-g='\E[32m'
-bu='\E[34m'
-m='\E[35m'
-c='\E[36m'
-w='\E[37m'
-endc='\E[0m'
-enda='\033[0m'
+#!/sstem/xbin/bash
+clear
 blue='\e[1;34m'
+green='\e[1;32m'
+purple='\[1;35m'
 cyan='\e[1;36m'
 red='\e[1;31m'
-
-figlet Tools | lolcat
-
-echo -e  "_____________________________________________________________"
-echo -e  "Tools    : 0daysecurity98 $white         " |lolcat
-echo -e  "Creadby  : 0day $white   " |lolcat
-echo -e  "Contact  : attackofcyber969@gmail.com $white " |lolcat
-echo -e  "_____________________________________________________________"
-
-###################################################
-# CTRL + C
-###################################################
-trap ctrl_c INT
-ctrl_c() {
+white='\e[1;37m'
+yellow='\e[1;33m'
+echo "\033[1;31m ┏━╮╭━┓ ╭━━━━━━╮\033[31;0m●▬▬▬▬▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬▬▬▬▬▬●
+\033[91m ┃┏┗┛┓┃╭┫\033[NNeo.Fc/$\033[91m\033[1;34m ╔╗┌─┐┬─┐┬┌─  \033[92m╦═╗╦ ╦ ╗  ╔═╗\033[1;33m╔═╗
+\033[91m ╰┓▋▋┏╯╯╰━━━━━━╯  \033[1;34m║║├─┤├┬┘├┴┐  \033[92m╠═╝║ ║ ║  ╚═╗\033[1;33m╠═╣
+\033[91m╭━┻╮╲┗━━━━╮╭╮    \033[1;34m═╩╝┴ ┴┴└─┴ ┴  \033[92m╩  ╚═╝ ╚═╝══╝\033[1;33m╩ ╩══╗
+\033[91m┃▎▎┃╲╲╲╲╲╲┣━╯   \033[31;0m«=============๑✧✧๑=============» \033[1;33m║
+\033[91m╰━┳┻▅╯╲╲╲╲┃   \033[1;36m╔═╗╗  ╗    \033[95m╔═╗╦═╗╔══╦═╗╔═╗╔╦╗╔═╗\033[1;33m╦═╗║
+\033[91m  ╰━┳┓┏┳┓┏╯   \033[1;36m╠═╣║  ║    \033[95m║ ║╠═╝╠═ ╠╦╝╠═╣ ║ ║ ║\033[93m╠╦╝║
+\033[91m    ┗┻┛┗┻┛    \033[1;36m╩ ╩╚═╝╚═╝  \033[95m╚═╝╩  ╚══╩╚═╩ ╩ ╩ ╚═╝\033[1;33m╩╚═╣
+╔╦═══════════════════════════════════════════════╣
+╠╝  \033[1;30m✬  \033[31;NNEO,Sc       \033[91m:  \033[1;36mNEO AMBIl pulsah.         \033[1;33m║
+╠╗  \033[1;30m✬  \033[31;PPRANk.sc     \033[91m:  \033[1;32mFC,WORK.                  \033[1;33m║
+║║  \033[1;30m✬  \033[31;YYoutube      \033[91m:  \033[1;32mM.A 28 attker            \033[1;33m╔╣
+║║  \033[1;30m✬  \033[31;TTeam         \033[91m:  \033[1;34mWE CAN DO IT             \033[1;33m╠╣
+╚╬══════════════════════════════════════════════╬╝
+\033[1;33m╔╬══════════════════════════════════════════════╬╗
+\033[1;33m╠╝\033[91m● \033[92mDASAR LU MAU NYA YG INSTANT/simpel  \033[1;33m        ╚╣
+\033[1;33m║  \033[91m● \033[92mResikonya Tidak Di Tanggung penguna nya.    \033[1;33m║
+\033[1;33m╠════════════════════════════════════════════════╝
+\033[1;33m╠═════════════════╗
+\033[1;33m╠═▶ \033[91mX \033[1;33m(\033[92m+628XXX\033[1;33m)   ║
+\033[1;33m╠═════════════════╝"
+read -p '╠═▶ Masukan Nomor    : ' nama1;
+sleep 2
+echo '╠═▶ sedang memproses begal : '$nama1
+sleep 1
+echo "╠═▶ \033[92mLoading tunggu 5th lagi \033[0m. . ."
+sleep 5
+echo "\033[1;33m╠═▶ \033[1;32mMencari Operator \033[0m. . ."
+sleep 5
+echo "\033[1;33m╠═▶ \033[1;32mAmbil secukup nya asu  \033[0m. . ."
+sleep 4
+echo "\033[1;33m╠═▶ \033[1;31mTIADAK BISA MEMBUKA LU JELEK  \033[0m. . ."
+sleep 5
+echo "\033[1;33m╠═▶ \033[1;31mCOBA LAGI..."
+echo "\033[1;33m╠══════════════════════════▶"
+sleep 8
 clear
-echo -e $red"[#]> (Ctrl + C ) Detected, Trying To Exit ... "
-echo -e $cyan"[#]> Thanks"
+echo "\033[1;31m ┏━╮╭━┓ ╭━━━━━━╮\033[31;0m●▬▬▬▬▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬▬▬▬▬▬●
+\033[91m ┃┏┗┛┓┃╭┫\033[92mNEO.Fc/$\033[91m\033[1;34m╔╦╗┌─┐┬─┐┬┌─  \033[92m╦═╗╦ ╦ ╗  ╔═╗\033[1;33m╔═╗
+\033[91m ╰┓▋▋┏╯╯╰━━━━━━╯  \033[1;34m║║├─┤├┬┘├┴┐  \033[92m╠═╝║ ║ ║  ╚═╗\033[1;33m╠═╣
+\033[91m╭━┻╮╲┗━━━━╮╭╮    \033[1;34m═╩╝┴ ┴┴└─┴ ┴  \033[92m╩  ╚═╝ ╚═╝══╝\033[1;33m╩ ╩══╗
+\033[91m┃▎▎┃╲╲╲╲╲╲┣━╯   \033[31;0m«=============๑✧✧๑=============» \033[1;33m║
+\033[91m╰━┳┻▅╯╲╲╲╲┃   \033[1;36m╔═╗╗  ╗    \033[95m╔═╗╦═╗╔══╦═╗╔═╗╔╦╗╔═╗\033[1;33m╦═╗║
+\033[91m  ╰━┳┓┏┳┓┏╯   \033[1;36m╠═╣║  ║    \033[95m║ ║╠═╝╠═ ╠╦╝╠═╣ ║ ║ ║\033[93m╠╦╝║
+\033[91m    ┗┻┛┗┻┛    \033[1;36m╩ ╩╚═╝╚═╝  \033[95m╚═╝╩  ╚══╩╚═╩ ╩ ╩ ╚═╝\033[1;33m╩╚═╣
+╔╦═══════════════════════════════════════════════╣
+╠╝  \033[1;30m✬  \033[31;NNEO,Sc       \033[91m:  \033[1;36mNEO AMBIl pulsah.         \033[1;33m║
+╠╗  \033[1;30m✬  \033[31;PPRANk.sc     \033[91m:  \033[1;32mFC,WORK.                  \033[1;33m║
+║║  \033[1;30m✬  \033[31;YYoutube      \033[91m:  \033[1;32mM.A 28 attker            \033[1;33m╔╣
+║║  \033[1;30m✬  \033[31;TTeam         \033[91m:  \033[1;34mWE CAN DO IT             \033[1;33m╠╣
+╚╬══════════════════════════════════════════════╬╝
+\033[1;33m╔╬══════════════════════════════════════════════╬╗
+\033[1;33m╠╝\033[91m● \033[92mDASAR LU MAU NYA YG INSTANT/simpeln\033[1;33m         ╚╣
+\033[1;33m║  \033[91m● \033[92mResikonya Tidak Di Tanggung penguna nya.\033[1;33m    ║
+\033[1;33m╠════════════════════════════════════════════════╝
+\033[1;33m╠══════════════════════════════╗
+\033[1;33m╠═▶ \033[91mmasukan nomer hp nya lagi..\033[1;33m║
+\033[1;33m╠══════════════════════════════╝
+\033[1;33m╠═════════════════╗
+\033[1;33m╠═▶\033[91mX \033[1;33m(\033[92m+628XXX\033[1;33m)    ║
+\033[1;33m╠═════════════════╝"
+read -p '╠═▶ Masukan Nomor   : ' nama1;
+sleep 2
+echo '╠═▶ Memproses Nomor : '$nama1
 sleep 1
-echo ""
-echo -e $white"[#]> see you gaes :)..."
+echo "╠═▶ \033[92mLoading \033[0m. . ."
+sleep 5
+echo "\033[1;33m╠═▶ \033[1;32mMencari Operator \033[0m. . ."
+sleep 9
+echo "\033[1;33m╠═▶ \033[1;32mBerhasil Memproses Nomor\033[0m."
+echo "\033[1;33m╠══════════════════════════▶"
 sleep 1
-exit
-}
-
-lagi=1
-while [ $lagi -lt 6 ];
-do
-echo ""
-echo -e $b "1.  Nmap${enda}";
-echo -e "============================" | lolcat
-echo -e $r "2.  Admin-finder${endc}";
-echo -e "============================" | lolcat
-echo -e $g "3.  RED_HAWK${endc}";
-echo -e "============================" | lolcat
-echo -e $c "4   Lazymux${endc}";
-echo -e "============================" | lolcat
-echo -e $r"5.  Tools-X${endc}";
-echo -e "============================" | lolcat
-echo -e $r "6. Exit${endc}";
-echo ""
-echo -e "╭─0day" |lolcat
-read -p "╰─#" pil;
-
-# Nmap
-
-case $pil in
-1) pkg install nmap
-echo -e  "${y} {1} Masukkan Web${endc}:"
-read web
-nmap $web
-echo
-
-;;
-
-# admin-finder
-
-2) git clone  https://github.com/the-c0d3r/admin-finder.git
-echo -e "${y} cara menggunakan admin finder"
-echo -e "${y} cd admin-finder"
-echo -e "${y} python admin-finder.py"
-cd /data/data/com.termux/files/home/admin-finder/
-python2 /data/data/com.termux/files/home/admin-finder/admin-finder.py
-echo
-
-;;
-
-#RED_HAWK
-
-3) git clone https://github.com/Tuhinshubhra/RED_HAWK
-echo -e "${y} Installer RED_HAWK..."
-echo -e "${y} cd RED_HAWK"
-echo -e "${y} php RED_HAWK.php"
-cd /data/data/com.termux/files/home/RED_HAWK/
-php /data/data/com.termux/files/home/RED_HAWK/ RED_HAWK.php
-
-;;
-
-#Lazymux
-
-4) git clone https://github.com/Gameye98/Lazymux
-echo -e "${y} Installer Lazymux..."
-echo -e "${y} cd Lazymux"
-echo -e "${y} python lazymux.py"
-cd /data/data/com.termux/files/home/Lazymux/
-python2 /data/data/com.termux/files/home/Lazymux/ lazymux.py
-
-;;
-
-#Tools-X
-
-5) git clone https://github.com/Rajkumrdusad/Tool-X
-echo -e "${y} Installer Tool-X..."
-echo -e "${y} cd Tool-X"
-echo -e "${y} sh install.aex"
-cd /data/data/com.termux/files/home/Tool-X
-bash /data/data/com.termux/files/home/Tool-X/sh install.aex
-
-;;
-
-
-6) echo "created by : 0daysecurity98" | lolcat
-exit
-;;
-
-*) echo "sorry, pilihan yang anda cari tidak ada"
-esac
-done
-done
+echo "\033[1;33m╠════════════════════════════════════════╗
+\033[1;33m╠═▶ \033[0m MASUKIN JUMBELAH PULSAH \033[1;33m            ║
+\033[1;33m╠════════════════════════════════════════╝"
+read -p '╠═▶ Masukan Jumlah   : ' nomorr1;
+echo '╠═▶ Memproses Pulsa  : '$nomorr1
+sleep 3
+echo "╠═▶ \033[1;32mLoading \033[0m. . .\033[1;33m"
+echo "╠═▶ \033[1;31m10\033[0m%"
+sleep 2
+echo "\033[1;33m╠═▶ \033[1;31m20\033[0m%"
+sleep 5
+echo "\033[1;33m╠═▶ \033[1;31m30\033[0m%"
+sleep 3
+echo "\033[1;33m╠═▶ \033[1;35m40\033[0m%"
+sleep 3
+echo "\033[1;33m╠═▶ \033[1;35m50\033[0m%"
+sleep 3
+echo "\033[1;33m╠═▶ \033[1;34m60\033[0m%"
+sleep 3
+echo "\033[1;33m╠═▶ \033[1;34m70\033[0m%"
+sleep 4
+echo "\033[1;33m╠═▶ \033[1;36m80\033[0m%"
+sleep 3
+echo "\033[1;33m╠═▶ \033[1;32m90\033[0m%"
+sleep 4
+echo "\033[1;33m╠═▶ \033[0m100%"
+sleep 3
+echo "\033[1;33m╠══════════════════════════════════════╗"
+echo "╠═▶\033[0m Jumlah Yang Anda Masukkan Sukses   \033[1;33m║"
+echo "\033[1;33m╠═▶ \033[0mSilahkan Tunggu 5 Menit...         \033[1;33m║"
+echo "\033[1;33m╠═════════════════════════╦════════════╝"
+echo "║ \033[34mKetik \033[1;33mexit \033[34mUntuk Keluar\033[1;33m ║"
+echo "╠═════════════════════════╝"
+python gcroup.py
+read -p '╚═▶' nolorr1;
+sleep 2
+sleep 3
+sleep 3                                                         sleep 4                                                         clear
+echo "\033[1;33m╔╦══════════════════════════════════════════════╠╝  \033[1;30m✬  \033[31;0mAuthor     \033[91m:  \033[1;36mMoch>╠╗  \033[1;30m✬  \033[31;0mInstagram  \033[91m:  \033[1;32m@nop>║║  \033[1;30m✬  \033[31;0mYoutube    \033[91m:  \033[1;32mPAJA>║║  \033[1;30m✬  \033[31;0mTeam       \033[91m:  \033[1;34mC3L3>
+╚╬══════════════════════════════════════════════╬╝              \033[1;33m╔╬══════════════════════════════════════════════╬╗    \033[1;33m╠╝\033[91m● \033[92mJika Script/Tools Ini Tidak Berfu>
+\033[1;33m║   \033[92mAda Kesalahan Pada Script/Tools Ini      >\033[1;33m╠════════════════════════════════════════════╦═══╝"
+echo "╚\033[1;31m▶\033[0mTerimaKasih Telah Memakai Script/Tools>
+sleep 2
+sleep 2
+sleep 4       
