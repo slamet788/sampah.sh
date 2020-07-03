@@ -1,1 +1,0 @@
-# hackpulsah.sh
